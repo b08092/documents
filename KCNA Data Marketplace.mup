@@ -1,0 +1,717 @@
+{
+  "title": "KCNA Data Marketplace",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Develop Reports",
+      "id": 85,
+      "attr": {
+        "position": [
+          131.1875,
+          -87.96875000000023,
+          13
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Executive Summary",
+          "id": 86,
+          "ideas": {
+            "3": {
+              "title": "Costco",
+              "attr": {
+                "style": {}
+              },
+              "id": 89
+            },
+            "1.5": {
+              "title": "Sam's Club",
+              "attr": {
+                "style": {}
+              },
+              "id": 96
+            },
+            "2.25": {
+              "title": "Target",
+              "attr": {
+                "style": {}
+              },
+              "id": 93
+            },
+            "2.625": {
+              "title": "Walgreens",
+              "attr": {
+                "style": {}
+              },
+              "id": 94
+            },
+            "2.8125": {
+              "title": "Family Dollar",
+              "attr": {
+                "style": {}
+              },
+              "id": 92
+            },
+            "2.90625": {
+              "title": "Dollar General",
+              "attr": {
+                "style": {}
+              },
+              "id": 91
+            },
+            "2.953125": {
+              "title": "Kroger",
+              "attr": {
+                "style": {}
+              },
+              "id": 95
+            },
+            "2.9765625": {
+              "title": "CVS",
+              "attr": {
+                "style": {}
+              },
+              "id": 90
+            }
+          },
+          "attr": {
+            "position": [
+              346.859375,
+              -578.125,
+              13
+            ],
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Regional Sales",
+          "ideas": {
+            "1": {
+              "title": "Sam's Club",
+              "attr": {
+                "style": {}
+              },
+              "id": 98
+            },
+            "2": {
+              "title": "Target",
+              "attr": {
+                "style": {}
+              },
+              "id": 99
+            },
+            "3": {
+              "title": "Walgreens",
+              "attr": {
+                "style": {}
+              },
+              "id": 100
+            },
+            "4": {
+              "title": "Family Dollar",
+              "attr": {
+                "style": {}
+              },
+              "id": 101
+            },
+            "5": {
+              "title": "Dollar General",
+              "attr": {
+                "style": {}
+              },
+              "id": 102
+            },
+            "6": {
+              "title": "Kroger",
+              "attr": {
+                "style": {}
+              },
+              "id": 103
+            },
+            "7": {
+              "title": "CVS",
+              "attr": {
+                "style": {}
+              },
+              "id": 104
+            },
+            "8": {
+              "title": "Costco",
+              "attr": {
+                "style": {}
+              },
+              "id": 105
+            }
+          },
+          "id": 97,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Weekly POS",
+          "ideas": {
+            "1": {
+              "title": "Sam's Club",
+              "attr": {
+                "style": {}
+              },
+              "id": 107
+            },
+            "2": {
+              "title": "Target",
+              "attr": {
+                "style": {}
+              },
+              "id": 108
+            },
+            "3": {
+              "title": "Walgreens",
+              "attr": {
+                "style": {}
+              },
+              "id": 109
+            },
+            "4": {
+              "title": "Family Dollar",
+              "attr": {
+                "style": {}
+              },
+              "id": 110
+            },
+            "5": {
+              "title": "Dollar General",
+              "attr": {
+                "style": {}
+              },
+              "id": 111
+            },
+            "6": {
+              "title": "Kroger",
+              "attr": {
+                "style": {}
+              },
+              "id": 112
+            },
+            "7": {
+              "title": "CVS",
+              "attr": {
+                "style": {}
+              },
+              "id": 113
+            },
+            "8": {
+              "title": "Costco",
+              "attr": {
+                "style": {}
+              },
+              "id": 114
+            }
+          },
+          "id": 106,
+          "attr": {
+            "style": {},
+            "position": [
+              370.296875,
+              -52.734375,
+              11
+            ]
+          }
+        },
+        "4": {
+          "title": "Inventory Mgmt System",
+          "ideas": {
+            "1": {
+              "title": "Sam's Club",
+              "attr": {
+                "style": {}
+              },
+              "id": 116
+            },
+            "2": {
+              "title": "Target",
+              "attr": {
+                "style": {}
+              },
+              "id": 117
+            },
+            "3": {
+              "title": "Walgreens",
+              "attr": {
+                "style": {}
+              },
+              "id": 118
+            },
+            "4": {
+              "title": "Family Dollar",
+              "attr": {
+                "style": {}
+              },
+              "id": 119
+            },
+            "5": {
+              "title": "Dollar General",
+              "attr": {
+                "style": {}
+              },
+              "id": 120
+            },
+            "6": {
+              "title": "Kroger",
+              "attr": {
+                "style": {}
+              },
+              "id": 121
+            },
+            "7": {
+              "title": "CVS",
+              "attr": {
+                "style": {}
+              },
+              "id": 122
+            },
+            "8": {
+              "title": "Costco",
+              "attr": {
+                "style": {}
+              },
+              "id": 123
+            }
+          },
+          "id": 115,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4.5": {
+          "title": "Out of Scope: Cross-Team Reports",
+          "id": 83,
+          "attr": {
+            "style": {},
+            "position": [
+              163.265625,
+              595.7031249999998,
+              14
+            ]
+          }
+        },
+        "4.25": {
+          "title": "Mobilized POS Reports",
+          "ideas": {
+            "1": {
+              "title": "Sam's Club",
+              "attr": {
+                "style": {}
+              },
+              "id": 125
+            },
+            "2": {
+              "title": "Target",
+              "attr": {
+                "style": {}
+              },
+              "id": 126
+            },
+            "3": {
+              "title": "Walgreens",
+              "attr": {
+                "style": {}
+              },
+              "id": 127
+            },
+            "4": {
+              "title": "Family Dollar",
+              "attr": {
+                "style": {}
+              },
+              "id": 128
+            },
+            "5": {
+              "title": "Dollar General",
+              "attr": {
+                "style": {}
+              },
+              "id": 129
+            },
+            "6": {
+              "title": "Kroger",
+              "attr": {
+                "style": {}
+              },
+              "id": 130
+            },
+            "7": {
+              "title": "CVS",
+              "attr": {
+                "style": {}
+              },
+              "id": 131
+            },
+            "8": {
+              "title": "Costco",
+              "attr": {
+                "style": {}
+              },
+              "id": 132
+            }
+          },
+          "id": 124,
+          "attr": {
+            "style": {},
+            "position": [
+              366.390625,
+              492.1874999999998,
+              12
+            ]
+          }
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Expand ETL Process",
+      "id": 72,
+      "ideas": {
+        "1": {
+          "title": "Create KC POS ADSs",
+          "id": 62,
+          "attr": {
+            "style": {},
+            "position": [
+              163.93749999999977,
+              -305.5625000000002,
+              2
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Sam's Club",
+              "id": 8,
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Family Dollar",
+              "id": 69,
+              "attr": {
+                "style": {}
+              }
+            },
+            "7": {
+              "title": "Dollar General",
+              "id": 70,
+              "attr": {
+                "style": {}
+              }
+            },
+            "8": {
+              "title": "CVS",
+              "id": 71,
+              "attr": {
+                "style": {}
+              }
+            },
+            "18": {
+              "title": "Costco",
+              "attr": {
+                "style": {}
+              },
+              "id": 68
+            },
+            "1.5": {
+              "title": "Target",
+              "id": 67,
+              "attr": {
+                "style": {}
+              }
+            },
+            "1.75": {
+              "title": "Walgreens",
+              "attr": {
+                "style": {}
+              },
+              "id": 66
+            },
+            "7.5": {
+              "title": "Kroger",
+              "id": 65,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Create Category POS ADSs",
+          "attr": {
+            "style": {},
+            "position": [
+              308.5,
+              -53.5,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Sam's Club",
+              "attr": {
+                "style": {}
+              },
+              "id": 74
+            },
+            "5": {
+              "title": "Family Dollar",
+              "attr": {
+                "style": {}
+              },
+              "id": 78
+            },
+            "6": {
+              "title": "Dollar General",
+              "attr": {
+                "style": {}
+              },
+              "id": 79
+            },
+            "7": {
+              "title": "CVS",
+              "attr": {
+                "style": {}
+              },
+              "id": 80
+            },
+            "8": {
+              "title": "Costco",
+              "attr": {
+                "style": {}
+              },
+              "id": 81
+            },
+            "1.5": {
+              "title": "Target",
+              "attr": {
+                "style": {}
+              },
+              "id": 77
+            },
+            "1.75": {
+              "title": "Walgreens",
+              "attr": {
+                "style": {}
+              },
+              "id": 76
+            },
+            "6.5": {
+              "title": "Kroger",
+              "attr": {
+                "style": {}
+              },
+              "id": 75
+            }
+          },
+          "id": 73
+        },
+        "3": {
+          "title": "Expand Nielsen ADS with Other Retailer Markets",
+          "id": 54,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Secure HANA Capacity and Funding",
+          "id": 84
+        },
+        "5": {
+          "title": "Engage RSi Engineers",
+          "id": 133
+        },
+        "6": {
+          "title": "Engage Nielsen (thru Carolyn Challoner)",
+          "id": 134
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-11": {
+      "title": "Operationalize Walmart",
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "Reports",
+          "id": 22,
+          "ideas": {
+            "1": {
+              "title": "Executive Summary",
+              "id": 25
+            },
+            "2": {
+              "title": "JBP POS LE Tracker",
+              "id": 26,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Regional Sales",
+              "id": 27
+            },
+            "4": {
+              "title": "Mobilized POS Reports",
+              "id": 34
+            },
+            "3.5": {
+              "title": "Supply Chain Reliability",
+              "id": 35
+            },
+            "3.75": {
+              "title": "Inventory Mgmt System",
+              "id": 36
+            },
+            "3.875": {
+              "title": "Weekly POS",
+              "id": 37
+            },
+            "3.9375": {
+              "title": "Category Analyzer",
+              "id": 38,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3.96875": {
+              "title": "Category IMS",
+              "id": 39
+            }
+          }
+        },
+        "2": {
+          "title": "Train & Deploy",
+          "id": 23
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          353.2812499999998,
+          378.82812499999955,
+          21
+        ]
+      }
+    },
+    "-21": {
+      "title": "Next Gen Capabilities",
+      "id": 4,
+      "ideas": {
+        "3": {
+          "title": "Predictive Analytics",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "Pattern Analysis",
+              "id": 29,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Machine Learning",
+              "id": 32,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "What-If Scenarios",
+              "id": 135
+            }
+          }
+        },
+        "13": {
+          "title": "Weather-Driven Demand",
+          "id": 30,
+          "attr": {
+            "position": [
+              77.625,
+              86.68749999999943,
+              1
+            ],
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          178.06249999999977,
+          576.0937499999995,
+          22
+        ],
+        "style": {}
+      }
+    },
+    "-0.25": {
+      "title": "Manage Change",
+      "id": 56,
+      "ideas": {
+        "1": {
+          "title": "Manage Sponsors, Stakeholders, Users",
+          "id": 61,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Engage Business Team",
+          "id": 58
+        },
+        "3": {
+          "title": "Train & Deploy",
+          "id": 59
+        },
+        "4": {
+          "title": "Realize & Socialize ROI",
+          "id": 64
+        }
+      },
+      "attr": {
+        "position": [
+          206.78124999999977,
+          -779.3750000000001,
+          23
+        ],
+        "style": {}
+      }
+    },
+    "-0.375": {
+      "title": "Implement Security Model",
+      "id": 40,
+      "ideas": {
+        "1": {
+          "title": "Data",
+          "id": 42
+        },
+        "3": {
+          "title": "SSO",
+          "id": 44
+        },
+        "4": {
+          "title": "User",
+          "id": 46
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#ffcc00"
+    }
+  }
+}
