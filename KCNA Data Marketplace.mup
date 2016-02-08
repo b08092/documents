@@ -8,9 +8,9 @@
       "id": 85,
       "attr": {
         "position": [
-          131.1875,
-          -87.96875000000023,
-          13
+          159,
+          -126,
+          24
         ],
         "style": {}
       },
@@ -78,9 +78,9 @@
           },
           "attr": {
             "position": [
-              346.859375,
-              -578.125,
-              13
+              335,
+              -530.0312499999998,
+              15
             ],
             "style": {}
           }
@@ -150,76 +150,6 @@
             "style": {}
           }
         },
-        "3": {
-          "title": "Weekly POS",
-          "ideas": {
-            "1": {
-              "title": "Sam's Club",
-              "attr": {
-                "style": {}
-              },
-              "id": 107
-            },
-            "2": {
-              "title": "Target",
-              "attr": {
-                "style": {}
-              },
-              "id": 108
-            },
-            "3": {
-              "title": "Walgreens",
-              "attr": {
-                "style": {}
-              },
-              "id": 109
-            },
-            "4": {
-              "title": "Family Dollar",
-              "attr": {
-                "style": {}
-              },
-              "id": 110
-            },
-            "5": {
-              "title": "Dollar General",
-              "attr": {
-                "style": {}
-              },
-              "id": 111
-            },
-            "6": {
-              "title": "Kroger",
-              "attr": {
-                "style": {}
-              },
-              "id": 112
-            },
-            "7": {
-              "title": "CVS",
-              "attr": {
-                "style": {}
-              },
-              "id": 113
-            },
-            "8": {
-              "title": "Costco",
-              "attr": {
-                "style": {}
-              },
-              "id": 114
-            }
-          },
-          "id": 106,
-          "attr": {
-            "style": {},
-            "position": [
-              370.296875,
-              -52.734375,
-              11
-            ]
-          }
-        },
         "4": {
           "title": "Inventory Mgmt System",
           "ideas": {
@@ -282,17 +212,10 @@
           },
           "id": 115,
           "attr": {
-            "style": {}
-          }
-        },
-        "4.5": {
-          "title": "Out of Scope: Cross-Team Reports",
-          "id": 83,
-          "attr": {
             "style": {},
             "position": [
-              163.265625,
-              595.7031249999998,
+              341,
+              -27.031249999999773,
               14
             ]
           }
@@ -359,12 +282,7 @@
           },
           "id": 124,
           "attr": {
-            "style": {},
-            "position": [
-              366.390625,
-              492.1874999999998,
-              12
-            ]
+            "style": {}
           }
         },
         "5.5": {
@@ -374,19 +292,23 @@
       }
     },
     "2": {
-      "title": "Manage Work",
+      "title": "Lead Project",
       "id": 138,
       "ideas": {
-        "1": {
-          "title": "Identify ETL Team (KC IT, RSi)",
-          "id": 139
-        },
-        "1.5": {
-          "title": "Identify Reporting Team (KC IT, Customer Team Experts)",
-          "id": 142,
+        "2": {
+          "title": "Develop and Manage Workplan",
+          "id": 148,
           "attr": {
             "style": {}
           }
+        },
+        "1.5": {
+          "title": "Mobilize Reporting Team (KC IT, RSi, and Customer Team Experts)",
+          "id": 142,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {}
         },
         "1.25": {
           "title": "Assess & Prioritize Customer Team Readiness (data, team, retailer)",
@@ -401,11 +323,56 @@
         },
         "3.5": {
           "title": "Conduct Weekly Project Meetings",
-          "id": 147
+          "id": 147,
+          "ideas": {}
+        },
+        "1.375": {
+          "title": "Mobilize ETL Team (KC IT, RSi, Nielsen)",
+          "id": 139,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2.25": {
+          "title": "Secure HANA Capacity and Funding",
+          "id": 84,
+          "attr": {
+            "style": {}
+          }
         },
         "4.5": {
-          "title": "Develop and Manage Workplan",
-          "id": 148
+          "title": "Align Supply Chain Deliverables (content, timing) with Shelf-Back Initiative",
+          "id": 153
+        },
+        "1.75": {
+          "title": "Mobilize Change Mgmt Team (KC IT, KCNA Corp and Field Teams)",
+          "attr": {
+            "style": {}
+          },
+          "id": 154,
+          "ideas": {
+            "2": {
+              "title": "Manage Sponsors, Stakeholders, Users",
+              "id": 61,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Realize & Socialize ROI",
+              "id": 64,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Train & Deploy",
+              "id": 59,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
@@ -559,18 +526,6 @@
           "attr": {
             "style": {}
           }
-        },
-        "4": {
-          "title": "Secure HANA Capacity and Funding",
-          "id": 84
-        },
-        "5": {
-          "title": "Engage RSi Engineers",
-          "id": 133
-        },
-        "6": {
-          "title": "Engage Nielsen (thru Carolyn Challoner)",
-          "id": 134
         }
       },
       "attr": {
@@ -627,6 +582,14 @@
               "title": "Category IMS",
               "id": 39
             }
+          },
+          "attr": {
+            "position": [
+              333,
+              -108,
+              2
+            ],
+            "style": {}
           }
         },
         "1.5": {
@@ -652,9 +615,9 @@
       "attr": {
         "style": {},
         "position": [
-          353.2812499999998,
-          378.82812499999955,
-          21
+          266,
+          522,
+          27
         ]
       }
     },
@@ -700,42 +663,9 @@
       },
       "attr": {
         "position": [
-          178.06249999999977,
-          576.0937499999995,
-          22
-        ],
-        "style": {}
-      }
-    },
-    "-0.25": {
-      "title": "Manage Change",
-      "id": 56,
-      "ideas": {
-        "1": {
-          "title": "Manage Sponsors, Stakeholders, Users",
-          "id": 61,
-          "attr": {
-            "style": {}
-          }
-        },
-        "2": {
-          "title": "Engage Business Team",
-          "id": 58
-        },
-        "3": {
-          "title": "Train & Deploy",
-          "id": 59
-        },
-        "4": {
-          "title": "Realize & Socialize ROI",
-          "id": 64
-        }
-      },
-      "attr": {
-        "position": [
-          206.78124999999977,
-          -779.3750000000001,
-          23
+          163,
+          830,
+          26
         ],
         "style": {}
       }
@@ -757,6 +687,13 @@
           "id": 46
         }
       },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-5.75": {
+      "title": "OUT OF SCOPE: Cross-Team Reports; Cross-Team Attributes; Cross-Team Measures",
+      "id": 83,
       "attr": {
         "style": {}
       }
