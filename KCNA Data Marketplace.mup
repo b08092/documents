@@ -1,5 +1,5 @@
 {
-  "title": "KCNA Data Marketplace",
+  "title": "KCNA DATA MARKETPLACE",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -41,7 +41,7 @@
           }
         },
         "4.25": {
-          "title": "Mobile Daily POS Report",
+          "title": "Mobile Daily POS",
           "ideas": {},
           "id": 124,
           "attr": {
@@ -229,7 +229,9 @@
           "title": "Create KC POS ADSs",
           "id": 62,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#99cc00"
+            }
           },
           "ideas": {}
         },
@@ -237,7 +239,7 @@
           "title": "Create Category POS ADSs",
           "attr": {
             "style": {
-              "background": "transparent"
+              "background": "#99cc00"
             }
           },
           "ideas": {},
@@ -247,7 +249,9 @@
           "title": "Expand Nielsen ADS with Other Retailer Markets and/or Business Divisions",
           "id": 54,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#99cc00"
+            }
           }
         }
       },
@@ -279,7 +283,7 @@
               "id": 27
             },
             "4": {
-              "title": "Mobilized POS Reports",
+              "title": "Mobile Daily POS",
               "id": 34
             },
             "3.5": {
@@ -295,15 +299,27 @@
               "id": 37
             },
             "3.9375": {
-              "title": "Category Analyzer",
+              "title": "Category Analyzer (BCC)",
               "id": 38,
               "attr": {
                 "style": {}
               }
             },
             "3.96875": {
-              "title": "Category IMS",
+              "title": "Category Inventory Mgmt System",
               "id": 39
+            },
+            "3.953125": {
+              "title": "Category Analyzer (FC)",
+              "id": 164
+            },
+            "3.9609375": {
+              "title": "Category Analyzer (AFC)",
+              "id": 165
+            },
+            "3.96484375": {
+              "title": "Category Analyzer (DIY)",
+              "id": 166
             }
           },
           "attr": {
