@@ -369,6 +369,34 @@
         }
       }
     },
+    "2": {
+      "title": "Planning and Analysis",
+      "id": 138,
+      "ideas": {
+        "1": {
+          "title": "Identify ETL Team (KC IT, RSi)",
+          "id": 139
+        },
+        "1.5": {
+          "title": "Identify Reporting Team (KC IT, Customer Team Experts)",
+          "id": 142,
+          "attr": {
+            "style": {}
+          }
+        },
+        "1.25": {
+          "title": "Assess & Prioritize Customer Team Readiness (data, team, retailer)",
+          "id": 140,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2.5": {
+          "title": "Conduct Kickoff Meeting",
+          "id": 144
+        }
+      }
+    },
     "-0.5": {
       "title": "Expand ETL Process",
       "id": 72,
