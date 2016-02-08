@@ -366,11 +366,15 @@
               12
             ]
           }
+        },
+        "5.5": {
+          "title": "Create Team Specific Tableau Server \"Projects\"",
+          "id": 150
         }
       }
     },
     "2": {
-      "title": "Planning and Analysis",
+      "title": "Manage Work",
       "id": 138,
       "ideas": {
         "1": {
@@ -394,6 +398,14 @@
         "2.5": {
           "title": "Conduct Kickoff Meeting",
           "id": 144
+        },
+        "3.5": {
+          "title": "Conduct Weekly Project Meetings",
+          "id": 147
+        },
+        "4.5": {
+          "title": "Develop and Manage Workplan",
+          "id": 148
         }
       }
     },
@@ -682,7 +694,7 @@
           }
         },
         "14": {
-          "title": "Conduct Industry Showcase",
+          "title": "Conduct Showcase",
           "id": 137
         }
       },
