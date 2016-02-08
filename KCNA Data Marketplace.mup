@@ -78,11 +78,13 @@
           },
           "attr": {
             "position": [
-              335,
-              -530.0312499999998,
+              328,
+              -503,
               15
             ],
-            "style": {}
+            "style": {
+              "background": "#99cc00"
+            }
           }
         },
         "2": {
@@ -147,7 +149,9 @@
           },
           "id": 97,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#99cc00"
+            }
           }
         },
         "4": {
@@ -212,16 +216,18 @@
           },
           "id": 115,
           "attr": {
-            "style": {},
+            "style": {
+              "background": "#99cc00"
+            },
             "position": [
-              341,
-              -27.031249999999773,
-              14
+              336,
+              -46,
+              16
             ]
           }
         },
         "4.25": {
-          "title": "Mobilized POS Reports",
+          "title": "Mobilized Daily POS Report",
           "ideas": {
             "1": {
               "title": "Sam's Club",
@@ -282,98 +288,148 @@
           },
           "id": 124,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#99cc00"
+            }
           }
         },
-        "5.5": {
+        "0.5": {
           "title": "Create Team Specific Tableau Server \"Projects\"",
-          "id": 150
+          "id": 150,
+          "attr": {
+            "style": {}
+          }
         }
       }
     },
     "2": {
-      "title": "Lead Project",
+      "title": "Manage Project",
       "id": 138,
       "ideas": {
-        "2": {
-          "title": "Develop and Manage Workplan",
-          "id": 148,
-          "attr": {
-            "style": {}
-          }
-        },
-        "1.5": {
-          "title": "Mobilize Reporting Team (KC IT, RSi, and Customer Team Experts)",
-          "id": 142,
-          "attr": {
-            "style": {}
-          },
-          "ideas": {}
-        },
-        "1.25": {
-          "title": "Assess & Prioritize Customer Team Readiness (data, team, retailer)",
-          "id": 140,
-          "attr": {
-            "style": {}
-          }
-        },
-        "2.5": {
-          "title": "Conduct Kickoff Meeting",
-          "id": 144
-        },
-        "3.5": {
-          "title": "Conduct Weekly Project Meetings",
-          "id": 147,
-          "ideas": {}
-        },
-        "1.375": {
-          "title": "Mobilize ETL Team (KC IT, RSi, Nielsen)",
-          "id": 139,
-          "attr": {
-            "style": {}
-          }
-        },
-        "2.25": {
-          "title": "Secure HANA Capacity and Funding",
-          "id": 84,
-          "attr": {
-            "style": {}
-          }
-        },
-        "4.5": {
-          "title": "Align Supply Chain Deliverables (content, timing) with Shelf-Back Initiative",
-          "id": 153
-        },
-        "1.75": {
-          "title": "Mobilize Change Mgmt Team (KC IT, KCNA Corp and Field Teams)",
-          "attr": {
-            "style": {}
-          },
-          "id": 154,
+        "5.5": {
+          "title": "People",
+          "id": 157,
           "ideas": {
+            "1": {
+              "title": "Mobilize Change Mgmt Team (KC IT, KCNA Corp and Field Teams)",
+              "attr": {
+                "style": {}
+              },
+              "id": 154,
+              "ideas": {
+                "2": {
+                  "title": "Manage Sponsors, Stakeholders, Users",
+                  "id": 61,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Realize & Socialize ROI",
+                  "id": 64,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2.5": {
+                  "title": "Train & Deploy",
+                  "id": 59,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
             "2": {
-              "title": "Manage Sponsors, Stakeholders, Users",
-              "id": 61,
+              "title": "Mobilize Reporting Team (KC IT, RSi, and Customer Team Experts)",
+              "id": 142,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "1.5": {
+              "title": "Mobilize ETL Team (KC IT, RSi, Nielsen)",
+              "id": 139,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              101,
+              -75.75,
+              2
+            ],
+            "style": {}
+          }
+        },
+        "6.5": {
+          "title": "Process",
+          "id": 158,
+          "ideas": {
+            "1": {
+              "title": "Define Scope: Assess & Prioritize Customer Team Readiness (data, team, retailer)",
+              "id": 140,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Develop and Manage Workplan",
+              "id": 148,
               "attr": {
                 "style": {}
               }
             },
             "3": {
-              "title": "Realize & Socialize ROI",
-              "id": 64,
+              "title": "Secure HANA Capacity and Funding",
+              "id": 84,
               "attr": {
                 "style": {}
               }
             },
             "4": {
-              "title": "Train & Deploy",
-              "id": 59,
+              "title": "Conduct Kickoff Meeting",
+              "id": 144,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Conduct Weekly Project Meetings",
+              "id": 147,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Align Supply Chain Deliverables (content, timing) with Shelf-Back Initiative",
+              "id": 153,
               "attr": {
                 "style": {}
               }
             }
+          },
+          "attr": {
+            "position": [
+              352,
+              111,
+              3
+            ],
+            "style": {}
           }
         }
+      },
+      "attr": {
+        "position": [
+          172,
+          599,
+          28
+        ],
+        "style": {}
       }
     },
     "-0.5": {
@@ -521,7 +577,7 @@
           "id": 73
         },
         "3": {
-          "title": "Expand Nielsen ADS with Other Retailer Markets",
+          "title": "Expand Nielsen ADS with Other Retailer Markets and/or Business Divisions",
           "id": 54,
           "attr": {
             "style": {}
@@ -615,59 +671,10 @@
       "attr": {
         "style": {},
         "position": [
-          266,
-          522,
-          27
+          255,
+          423,
+          29
         ]
-      }
-    },
-    "-21": {
-      "title": "Next Generation Analytics Capabilities",
-      "id": 4,
-      "ideas": {
-        "3": {
-          "title": "Predictive Analytics",
-          "id": 31,
-          "ideas": {
-            "1": {
-              "title": "Pattern Analysis",
-              "id": 29,
-              "attr": {
-                "style": {}
-              }
-            },
-            "2": {
-              "title": "Machine Learning",
-              "id": 32,
-              "attr": {
-                "style": {}
-              }
-            },
-            "3": {
-              "title": "What-If Scenarios",
-              "id": 135
-            }
-          }
-        },
-        "13": {
-          "title": "Weather-Driven Demand",
-          "id": 30,
-          "attr": {
-            "style": {}
-          }
-        },
-        "14": {
-          "title": "Conduct Showcase",
-          "id": 137
-        }
-      },
-      "attr": {
-        "position": [
-          163,
-          830,
-          26
-        ],
-        "style": {}
       }
     },
     "-0.375": {
@@ -695,7 +702,9 @@
       "title": "OUT OF SCOPE: Cross-Team Reports; Cross-Team Attributes; Cross-Team Measures",
       "id": 83,
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#ff0000"
+        }
       }
     }
   },
