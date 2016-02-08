@@ -4,7 +4,7 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "Develop Reportss",
+      "title": "Develop Reports",
       "id": 85,
       "attr": {
         "style": {}
@@ -58,36 +58,9 @@
           }
         },
         "5.25": {
-          "title": "Category Analyzer (BCC)",
+          "title": "Category Analyzers",
           "id": 159,
           "ideas": {},
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        },
-        "6.25": {
-          "title": "Category Analyzer (FC)",
-          "id": 161,
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        },
-        "7.25": {
-          "title": "Category Analyzer (AFC)",
-          "id": 162,
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        },
-        "8.25": {
-          "title": "Category Analyzer (DIY)",
-          "id": 163,
           "attr": {
             "style": {
               "background": "#99cc00"
@@ -177,13 +150,6 @@
                 "style": {}
               }
             },
-            "3": {
-              "title": "Secure HANA Capacity and Funding",
-              "id": 84,
-              "attr": {
-                "style": {}
-              }
-            },
             "4": {
               "title": "Conduct Kickoff Meeting",
               "id": 144,
@@ -202,6 +168,13 @@
             "6": {
               "title": "Align Supply Chain Deliverables (content, timing) with Shelf-Back Initiative",
               "id": 153,
+              "attr": {
+                "style": {}
+              }
+            },
+            "1.5": {
+              "title": "Secure HANA Capacity and Funding",
+              "id": 84,
               "attr": {
                 "style": {}
               }
@@ -282,10 +255,6 @@
               "title": "Regional Sales",
               "id": 27
             },
-            "4": {
-              "title": "Mobile Daily POS",
-              "id": 34
-            },
             "3.5": {
               "title": "Supply Chain Reliability",
               "id": 35
@@ -299,7 +268,7 @@
               "id": 37
             },
             "3.9375": {
-              "title": "Category Analyzer (BCC)",
+              "title": "Category Analyzers",
               "id": 38,
               "attr": {
                 "style": {}
@@ -309,17 +278,12 @@
               "title": "Category Inventory Mgmt System",
               "id": 39
             },
-            "3.953125": {
-              "title": "Category Analyzer (FC)",
-              "id": 164
-            },
-            "3.9609375": {
-              "title": "Category Analyzer (AFC)",
-              "id": 165
-            },
-            "3.96484375": {
-              "title": "Category Analyzer (DIY)",
-              "id": 166
+            "3.90625": {
+              "title": "Mobile Daily POS",
+              "id": 34,
+              "attr": {
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -352,7 +316,9 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#99cc00"
+        }
       }
     },
     "-0.375": {
@@ -374,15 +340,6 @@
       },
       "attr": {
         "style": {}
-      }
-    },
-    "-5.75": {
-      "title": "OUT OF SCOPE: Cross-Team Reports; Cross-Team Attributes; Cross-Team Measures",
-      "id": 83,
-      "attr": {
-        "style": {
-          "background": "#ff0000"
-        }
       }
     }
   },
