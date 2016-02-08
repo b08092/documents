@@ -589,9 +589,24 @@
             }
           }
         },
-        "2": {
+        "1.5": {
+          "title": "Realize and Socialize ROI",
+          "id": 136,
+          "attr": {
+            "position": [
+              104.21875000000023,
+              55.812499999999886,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "1.25": {
           "title": "Train & Deploy",
-          "id": 23
+          "id": 23,
+          "attr": {
+            "style": {}
+          }
         }
       },
       "attr": {
@@ -604,7 +619,7 @@
       }
     },
     "-21": {
-      "title": "Next Gen Capabilities",
+      "title": "Next Generation Analytics Capabilities",
       "id": 4,
       "ideas": {
         "3": {
@@ -635,13 +650,12 @@
           "title": "Weather-Driven Demand",
           "id": 30,
           "attr": {
-            "position": [
-              77.625,
-              86.68749999999943,
-              1
-            ],
             "style": {}
           }
+        },
+        "14": {
+          "title": "Conduct Industry Showcase",
+          "id": 137
         }
       },
       "attr": {
