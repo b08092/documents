@@ -7,81 +7,14 @@
       "title": "Develop Reports",
       "id": 85,
       "attr": {
-        "position": [
-          159,
-          -126,
-          24
-        ],
         "style": {}
       },
       "ideas": {
         "1": {
           "title": "Executive Summary",
           "id": 86,
-          "ideas": {
-            "3": {
-              "title": "Costco",
-              "attr": {
-                "style": {}
-              },
-              "id": 89
-            },
-            "1.5": {
-              "title": "Sam's Club",
-              "attr": {
-                "style": {}
-              },
-              "id": 96
-            },
-            "2.25": {
-              "title": "Target",
-              "attr": {
-                "style": {}
-              },
-              "id": 93
-            },
-            "2.625": {
-              "title": "Walgreens",
-              "attr": {
-                "style": {}
-              },
-              "id": 94
-            },
-            "2.8125": {
-              "title": "Family Dollar",
-              "attr": {
-                "style": {}
-              },
-              "id": 92
-            },
-            "2.90625": {
-              "title": "Dollar General",
-              "attr": {
-                "style": {}
-              },
-              "id": 91
-            },
-            "2.953125": {
-              "title": "Kroger",
-              "attr": {
-                "style": {}
-              },
-              "id": 95
-            },
-            "2.9765625": {
-              "title": "CVS",
-              "attr": {
-                "style": {}
-              },
-              "id": 90
-            }
-          },
+          "ideas": {},
           "attr": {
-            "position": [
-              328,
-              -503,
-              15
-            ],
             "style": {
               "background": "#99cc00"
             }
@@ -89,64 +22,7 @@
         },
         "2": {
           "title": "Regional Sales",
-          "ideas": {
-            "1": {
-              "title": "Sam's Club",
-              "attr": {
-                "style": {}
-              },
-              "id": 98
-            },
-            "2": {
-              "title": "Target",
-              "attr": {
-                "style": {}
-              },
-              "id": 99
-            },
-            "3": {
-              "title": "Walgreens",
-              "attr": {
-                "style": {}
-              },
-              "id": 100
-            },
-            "4": {
-              "title": "Family Dollar",
-              "attr": {
-                "style": {}
-              },
-              "id": 101
-            },
-            "5": {
-              "title": "Dollar General",
-              "attr": {
-                "style": {}
-              },
-              "id": 102
-            },
-            "6": {
-              "title": "Kroger",
-              "attr": {
-                "style": {}
-              },
-              "id": 103
-            },
-            "7": {
-              "title": "CVS",
-              "attr": {
-                "style": {}
-              },
-              "id": 104
-            },
-            "8": {
-              "title": "Costco",
-              "attr": {
-                "style": {}
-              },
-              "id": 105
-            }
-          },
+          "ideas": {},
           "id": 97,
           "attr": {
             "style": {
@@ -156,136 +32,17 @@
         },
         "4": {
           "title": "Inventory Mgmt System",
-          "ideas": {
-            "1": {
-              "title": "Sam's Club",
-              "attr": {
-                "style": {}
-              },
-              "id": 116
-            },
-            "2": {
-              "title": "Target",
-              "attr": {
-                "style": {}
-              },
-              "id": 117
-            },
-            "3": {
-              "title": "Walgreens",
-              "attr": {
-                "style": {}
-              },
-              "id": 118
-            },
-            "4": {
-              "title": "Family Dollar",
-              "attr": {
-                "style": {}
-              },
-              "id": 119
-            },
-            "5": {
-              "title": "Dollar General",
-              "attr": {
-                "style": {}
-              },
-              "id": 120
-            },
-            "6": {
-              "title": "Kroger",
-              "attr": {
-                "style": {}
-              },
-              "id": 121
-            },
-            "7": {
-              "title": "CVS",
-              "attr": {
-                "style": {}
-              },
-              "id": 122
-            },
-            "8": {
-              "title": "Costco",
-              "attr": {
-                "style": {}
-              },
-              "id": 123
-            }
-          },
+          "ideas": {},
           "id": 115,
           "attr": {
             "style": {
               "background": "#99cc00"
-            },
-            "position": [
-              336,
-              -46,
-              16
-            ]
+            }
           }
         },
         "4.25": {
-          "title": "Mobilized Daily POS Report",
-          "ideas": {
-            "1": {
-              "title": "Sam's Club",
-              "attr": {
-                "style": {}
-              },
-              "id": 125
-            },
-            "2": {
-              "title": "Target",
-              "attr": {
-                "style": {}
-              },
-              "id": 126
-            },
-            "3": {
-              "title": "Walgreens",
-              "attr": {
-                "style": {}
-              },
-              "id": 127
-            },
-            "4": {
-              "title": "Family Dollar",
-              "attr": {
-                "style": {}
-              },
-              "id": 128
-            },
-            "5": {
-              "title": "Dollar General",
-              "attr": {
-                "style": {}
-              },
-              "id": 129
-            },
-            "6": {
-              "title": "Kroger",
-              "attr": {
-                "style": {}
-              },
-              "id": 130
-            },
-            "7": {
-              "title": "CVS",
-              "attr": {
-                "style": {}
-              },
-              "id": 131
-            },
-            "8": {
-              "title": "Costco",
-              "attr": {
-                "style": {}
-              },
-              "id": 132
-            }
-          },
+          "title": "Mobile Daily POS Report",
+          "ideas": {},
           "id": 124,
           "attr": {
             "style": {
@@ -298,6 +55,43 @@
           "id": 150,
           "attr": {
             "style": {}
+          }
+        },
+        "5.25": {
+          "title": "Category Analyzer (BCC)",
+          "id": 159,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "6.25": {
+          "title": "Category Analyzer (FC)",
+          "id": 161,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "7.25": {
+          "title": "Category Analyzer (AFC)",
+          "id": 162,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "8.25": {
+          "title": "Category Analyzer (DIY)",
+          "id": 163,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
           }
         }
       }
@@ -424,11 +218,6 @@
         }
       },
       "attr": {
-        "position": [
-          172,
-          599,
-          28
-        ],
         "style": {}
       }
     },
@@ -440,140 +229,18 @@
           "title": "Create KC POS ADSs",
           "id": 62,
           "attr": {
-            "style": {},
-            "position": [
-              163.93749999999977,
-              -305.5625000000002,
-              2
-            ]
+            "style": {}
           },
-          "ideas": {
-            "1": {
-              "title": "Sam's Club",
-              "id": 8,
-              "attr": {
-                "style": {}
-              }
-            },
-            "6": {
-              "title": "Family Dollar",
-              "id": 69,
-              "attr": {
-                "style": {}
-              }
-            },
-            "7": {
-              "title": "Dollar General",
-              "id": 70,
-              "attr": {
-                "style": {}
-              }
-            },
-            "8": {
-              "title": "CVS",
-              "id": 71,
-              "attr": {
-                "style": {}
-              }
-            },
-            "18": {
-              "title": "Costco",
-              "attr": {
-                "style": {}
-              },
-              "id": 68
-            },
-            "1.5": {
-              "title": "Target",
-              "id": 67,
-              "attr": {
-                "style": {}
-              }
-            },
-            "1.75": {
-              "title": "Walgreens",
-              "attr": {
-                "style": {}
-              },
-              "id": 66
-            },
-            "7.5": {
-              "title": "Kroger",
-              "id": 65,
-              "attr": {
-                "style": {}
-              }
-            }
-          }
+          "ideas": {}
         },
         "2": {
           "title": "Create Category POS ADSs",
           "attr": {
-            "style": {},
-            "position": [
-              308.5,
-              -53.5,
-              1
-            ]
-          },
-          "ideas": {
-            "1": {
-              "title": "Sam's Club",
-              "attr": {
-                "style": {}
-              },
-              "id": 74
-            },
-            "5": {
-              "title": "Family Dollar",
-              "attr": {
-                "style": {}
-              },
-              "id": 78
-            },
-            "6": {
-              "title": "Dollar General",
-              "attr": {
-                "style": {}
-              },
-              "id": 79
-            },
-            "7": {
-              "title": "CVS",
-              "attr": {
-                "style": {}
-              },
-              "id": 80
-            },
-            "8": {
-              "title": "Costco",
-              "attr": {
-                "style": {}
-              },
-              "id": 81
-            },
-            "1.5": {
-              "title": "Target",
-              "attr": {
-                "style": {}
-              },
-              "id": 77
-            },
-            "1.75": {
-              "title": "Walgreens",
-              "attr": {
-                "style": {}
-              },
-              "id": 76
-            },
-            "6.5": {
-              "title": "Kroger",
-              "attr": {
-                "style": {}
-              },
-              "id": 75
+            "style": {
+              "background": "transparent"
             }
           },
+          "ideas": {},
           "id": 73
         },
         "3": {
@@ -669,12 +336,7 @@
         }
       },
       "attr": {
-        "style": {},
-        "position": [
-          255,
-          423,
-          29
-        ]
+        "style": {}
       }
     },
     "-0.375": {
