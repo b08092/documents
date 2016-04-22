@@ -4,19 +4,19 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "Develop Reports",
+      "title": "Trade (Promax) ADS",
       "id": 85,
       "attr": {
         "style": {}
       },
       "ideas": {
         "1": {
-          "title": "Executive Summary",
+          "title": "Executive Summary 2.0",
           "id": 86,
           "ideas": {},
           "attr": {
             "style": {
-              "background": "#99cc00"
+              "background": "transparent"
             }
           }
         },
@@ -51,7 +51,7 @@
           }
         },
         "0.5": {
-          "title": "Create Team Specific Tableau Server \"Projects\"",
+          "title": "HANA ETL",
           "id": 150,
           "attr": {
             "style": {}
@@ -192,6 +192,44 @@
       },
       "attr": {
         "style": {}
+      }
+    },
+    "3": {
+      "title": "WMT Exec Summary 2.0",
+      "id": 169,
+      "ideas": {
+        "1": {
+          "title": "Create Trade (Promax) ADS",
+          "id": 170
+        }
+      }
+    },
+    "4": {
+      "title": "WMT IMS 2.0",
+      "id": 171,
+      "ideas": {
+        "1": {
+          "title": "Integrate SC Command Center into Data Marketplace",
+          "id": 176
+        }
+      }
+    },
+    "14": {
+      "title": "Data-as-a-Service Environment",
+      "id": 172,
+      "ideas": {
+        "1": {
+          "title": "Documentation: Data Catalog, Dictionary, Instructions, etc.",
+          "id": 173
+        },
+        "2": {
+          "title": "Data Model Tableau Developer Training",
+          "id": 174
+        },
+        "3": {
+          "title": "Tableau Consulting",
+          "id": 175
+        }
       }
     },
     "-0.5": {
