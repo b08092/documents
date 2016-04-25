@@ -10,82 +10,12 @@
         "style": {}
       },
       "ideas": {
-        "1": {
-          "title": "Executive Summary 2.0",
-          "id": 86,
-          "ideas": {},
-          "attr": {
-            "style": {
-              "background": "transparent"
-            }
-          }
-        },
-        "2": {
-          "title": "Regional Sales",
-          "ideas": {},
-          "id": 97,
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        },
-        "4": {
-          "title": "Inventory Mgmt System",
-          "ideas": {},
-          "id": 115,
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        },
-        "4.25": {
-          "title": "Mobile Daily POS",
-          "ideas": {},
-          "id": 124,
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        },
         "0.5": {
           "title": "HANA ETL",
           "id": 150,
           "attr": {
             "style": {}
           }
-        },
-        "5.25": {
-          "title": "Category Analyzers",
-          "id": 159,
-          "ideas": {},
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        }
-      }
-    },
-    "3": {
-      "title": "WMT Exec Summary 2.0",
-      "id": 169,
-      "ideas": {
-        "1": {
-          "title": "Create Trade (Promax) ADS",
-          "id": 170
-        }
-      }
-    },
-    "4": {
-      "title": "WMT IMS 2.0",
-      "id": 171,
-      "ideas": {
-        "1": {
-          "title": "Integrate SC Command Center into Data Marketplace",
-          "id": 176
         }
       }
     },
@@ -245,6 +175,10 @@
             "3": {
               "title": "Market Analyzer",
               "id": 168
+            },
+            "2.5": {
+              "title": "Category Analyzer",
+              "id": 178
             }
           }
         }
@@ -256,6 +190,36 @@
           -231.44318581809682,
           1
         ]
+      }
+    },
+    "-12": {
+      "title": "Walmart",
+      "id": 179,
+      "ideas": {
+        "2": {
+          "title": "Exec Summary 2.0 (add Trade data, etc.)",
+          "id": 169,
+          "ideas": {},
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Market Analyzer 2.0 (add product groups, etc.)",
+          "id": 180
+        },
+        "4": {
+          "title": "JBP-LE Tracker 2.0 (add item list, etc.)",
+          "id": 181
+        },
+        "14": {
+          "title": "WMT IMS 2.0 (Safety Stock Ideal Inventory, Item/Store Segmentation, Supply Chain Reliability, Command Center Dashboard, etc.)",
+          "id": 171,
+          "ideas": {},
+          "attr": {
+            "style": {}
+          }
+        }
       }
     }
   },
