@@ -94,11 +94,11 @@
       "id": 172,
       "ideas": {
         "1": {
-          "title": "Documentation: Data Catalog, Dictionary, Instructions, etc.",
+          "title": "Data Catalog, Data Dictionary, Instructions, SharePoint, etc.",
           "id": 173
         },
         "2": {
-          "title": "Data Model Tableau Developer Training",
+          "title": "HANA-Tableau Developer Training",
           "id": 174
         },
         "3": {
@@ -243,7 +243,7 @@
               "id": 167
             },
             "3": {
-              "title": "SC Market Analyzer",
+              "title": "Market Analyzer",
               "id": 168
             }
           }
