@@ -1,5 +1,5 @@
 {
-  "title": "KCNA DATA MARKETPLACE 2016",
+  "title": "KCNA DATA MARKETPLACE SCOPE 2016",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -18,18 +18,110 @@
         "3": {
           "title": "Tableau Consulting",
           "id": 175
+        },
+        "4": {
+          "title": "Co-Develop WMT/Sam's Club Category Tableau Analytics",
+          "id": 186,
+          "ideas": {
+            "1": {
+              "title": "Category Analyzers",
+              "id": 187
+            },
+            "2": {
+              "title": "2x Category Growth Driver",
+              "id": 188
+            },
+            "3": {
+              "title": "Modular Analyzer",
+              "id": 189
+            },
+            "4": {
+              "title": "Category IMS",
+              "id": 190
+            }
+          },
+          "attr": {
+            "position": [
+              181.26182280900025,
+              177.2455654144286,
+              2
+            ],
+            "style": {}
+          }
+        },
+        "0.5": {
+          "title": "Attribute Management Administration Tool",
+          "id": 194,
+          "attr": {
+            "position": [
+              154.4821014404297,
+              -199.69756816586175,
+              1
+            ],
+            "style": {}
+          }
         }
       },
       "attr": {
         "position": [
-          154.50848388671875,
-          -217.90341110860015,
-          2
+          166.39569198014283,
+          -253.61542740562732,
+          19
         ],
-        "style": {}
+        "style": {
+          "background": "#ffff99"
+        }
       }
     },
     "15": {
+      "title": "Walmart",
+      "id": 179,
+      "ideas": {
+        "2": {
+          "title": "Exec Summary 2.0 (add Trade data, etc.)",
+          "id": 169,
+          "ideas": {},
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Market Analyzer 2.0 (add product groups, etc.)",
+          "id": 180
+        },
+        "4": {
+          "title": "JBP-LE Tracker 2.0 (add item list, etc.)",
+          "id": 181
+        },
+        "14": {
+          "title": "WMT IMS 2.0 (Safety Stock Ideal Inventory, Item/Store Segmentation, Supply Chain Reliability, Command Center Dashboard, etc.)",
+          "id": 171,
+          "ideas": {},
+          "attr": {
+            "style": {}
+          }
+        },
+        "15": {
+          "title": "Automate KPI Gadget",
+          "id": 183
+        },
+        "16": {
+          "title": "eCommerce Dashboard 2.0 (port to HANA from Vertica)",
+          "id": 195
+        }
+      },
+      "attr": {
+        "position": [
+          180.4670611512854,
+          279.1882034232299,
+          18
+        ],
+        "style": {
+          "background": "#ffff99"
+        }
+      }
+    },
+    "-6": {
       "title": "HANA ETL ADS",
       "id": 42,
       "ideas": {
@@ -64,13 +156,24 @@
             "style": {}
           },
           "ideas": {}
+        },
+        "8": {
+          "title": "Nielsen Walmart Data New Metrics and Markets",
+          "id": 185
         }
       },
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#ffff99"
+        },
+        "position": [
+          151.67567719099975,
+          -195.82066574791247,
+          21
+        ]
       }
     },
-    "-0.375": {
+    "-16": {
       "title": "Sam's Club",
       "id": 40,
       "ideas": {
@@ -104,45 +207,27 @@
         }
       },
       "attr": {
-        "style": {},
+        "style": {
+          "background": "#ffff99"
+        },
         "position": [
-          181.4886474609375,
-          -231.44318581809682,
-          1
+          241.17567719099975,
+          249.49183425208741,
+          22
         ]
       }
     },
-    "-12": {
-      "title": "Walmart",
-      "id": 179,
-      "ideas": {
-        "2": {
-          "title": "Exec Summary 2.0 (add Trade data, etc.)",
-          "id": 169,
-          "ideas": {},
-          "attr": {
-            "style": {}
-          }
-        },
-        "3": {
-          "title": "Market Analyzer 2.0 (add product groups, etc.)",
-          "id": 180
-        },
-        "4": {
-          "title": "JBP-LE Tracker 2.0 (add item list, etc.)",
-          "id": 181
-        },
-        "14": {
-          "title": "WMT IMS 2.0 (Safety Stock Ideal Inventory, Item/Store Segmentation, Supply Chain Reliability, Command Center Dashboard, etc.)",
-          "id": 171,
-          "ideas": {},
-          "attr": {
-            "style": {}
-          }
-        },
-        "15": {
-          "title": "Automate KPI Gadget",
-          "id": 183
+    "-26": {
+      "title": "Data Marketplace 3.0 Analysis & Planning",
+      "id": 184,
+      "attr": {
+        "position": [
+          203.92129028914428,
+          429.1793342520873,
+          20
+        ],
+        "style": {
+          "background": "#ffff99"
         }
       }
     }
@@ -150,7 +235,7 @@
   "links": [],
   "attr": {
     "style": {
-      "background": "#ffcc00"
+      "background": "#ffffff"
     }
   }
 }
