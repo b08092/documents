@@ -3,22 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Trade (Promax) ADS",
-      "id": 85,
-      "attr": {
-        "style": {}
-      },
-      "ideas": {
-        "0.5": {
-          "title": "HANA ETL",
-          "id": 150,
-          "attr": {
-            "style": {}
-          }
-        }
-      }
-    },
     "14": {
       "title": "Data-as-a-Service Environment",
       "id": 172,
@@ -35,151 +19,87 @@
           "title": "Tableau Consulting",
           "id": 175
         }
+      },
+      "attr": {
+        "position": [
+          154.50848388671875,
+          -217.90341110860015,
+          2
+        ],
+        "style": {}
       }
     },
-    "-11": {
-      "title": "Operationalize Walmart",
-      "id": 20,
+    "15": {
+      "title": "HANA ETL ADS",
+      "id": 42,
       "ideas": {
         "1": {
-          "title": "Reports",
-          "id": 22,
-          "ideas": {
-            "1": {
-              "title": "Executive Summary",
-              "id": 25
-            },
-            "2": {
-              "title": "JBP POS LE Tracker",
-              "id": 26,
-              "attr": {
-                "style": {}
-              }
-            },
-            "3": {
-              "title": "Regional Sales",
-              "id": 27
-            },
-            "3.5": {
-              "title": "Supply Chain Reliability",
-              "id": 35
-            },
-            "3.75": {
-              "title": "Inventory Mgmt System",
-              "id": 36
-            },
-            "3.875": {
-              "title": "Weekly POS",
-              "id": 37
-            },
-            "3.9375": {
-              "title": "Category Analyzers",
-              "id": 38,
-              "attr": {
-                "style": {}
-              }
-            },
-            "3.96875": {
-              "title": "Category Inventory Mgmt System",
-              "id": 39
-            },
-            "3.90625": {
-              "title": "Mobile Daily POS",
-              "id": 34,
-              "attr": {
-                "style": {}
-              }
-            }
+          "title": "RSi KC POS for Sam's Club",
+          "id": 160
+        },
+        "2": {
+          "title": "RSi Category POS for Sam's Club",
+          "id": 161
+        },
+        "3": {
+          "title": "Nielsen Sam's Club (Spectra, Scan, Panel)",
+          "id": 162
+        },
+        "4": {
+          "title": "Nielsen Sam's Club Markets (RMS Scan and Panel)",
+          "id": 163
+        },
+        "5": {
+          "title": "JBP Targets for Sam's Club",
+          "id": 164
+        },
+        "6": {
+          "title": "LE Metrics for Sam's Club",
+          "id": 165
+        },
+        "7": {
+          "title": "Trade (Promax) to source WMT and Sam's Club Reports",
+          "id": 85,
+          "attr": {
+            "style": {}
           },
-          "attr": {
-            "position": [
-              333,
-              -108,
-              2
-            ],
-            "style": {}
-          }
-        },
-        "1.5": {
-          "title": "Realize and Socialize ROI",
-          "id": 136,
-          "attr": {
-            "position": [
-              104.21875000000023,
-              55.812499999999886,
-              1
-            ],
-            "style": {}
-          }
-        },
-        "1.25": {
-          "title": "Train & Deploy",
-          "id": 23,
-          "attr": {
-            "style": {}
-          }
+          "ideas": {}
         }
       },
       "attr": {
-        "style": {
-          "background": "#99cc00"
-        }
+        "style": {}
       }
     },
     "-0.375": {
       "title": "Sam's Club",
       "id": 40,
       "ideas": {
-        "1": {
-          "title": "HANA ETL",
-          "id": 42,
-          "ideas": {
-            "1": {
-              "title": "RSi KC POS",
-              "id": 160
-            },
-            "2": {
-              "title": "RSi Category POS",
-              "id": 161
-            },
-            "3": {
-              "title": "Nielsen Spectra ",
-              "id": 162
-            },
-            "4": {
-              "title": "Nielsen SC Markets",
-              "id": 163
-            },
-            "5": {
-              "title": "SC JBP",
-              "id": 164
-            },
-            "6": {
-              "title": "SC LE",
-              "id": 165
-            }
+        "4": {
+          "title": "JBP-LE Tracker",
+          "id": 166,
+          "attr": {
+            "style": {}
           }
         },
-        "3": {
-          "title": "Reports",
-          "id": 44,
-          "ideas": {
-            "1": {
-              "title": "JBP-LE Tracker",
-              "id": 166
-            },
-            "2": {
-              "title": "Executive Summary",
-              "id": 167
-            },
-            "3": {
-              "title": "Market Analyzer",
-              "id": 168
-            },
-            "2.5": {
-              "title": "Category Analyzer",
-              "id": 178
-            }
+        "5": {
+          "title": "Market Analyzer",
+          "id": 168,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "Category Analyzer",
+          "id": 178,
+          "attr": {
+            "style": {}
+          }
+        },
+        "7": {
+          "title": "Executive Summary",
+          "id": 167,
+          "attr": {
+            "style": {}
           }
         }
       },
@@ -219,6 +139,10 @@
           "attr": {
             "style": {}
           }
+        },
+        "15": {
+          "title": "Automate KPI Gadget",
+          "id": 183
         }
       }
     }
